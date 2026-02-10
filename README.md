@@ -5,7 +5,7 @@ For SCAD VFX Senior Project, https://linktr.ee/metamorphosis_vfxthesis
 
 
 
-To run:
+### To run:
 
 Download files and place them in a folder that Maya has access to.
 
@@ -14,8 +14,9 @@ In the `userSetup.py` file, the user will have to change line 14 to where the sc
 
 ____
 
-**Brief** 
+## **User Guide** 
 
+### **Brief & Purpose for Tool**
 Unreal Cameras that are tracked using RedSpy infrared technology are not typically
 exported out of unreal with settings that allow it to be easily transferred between
 softwares . Because of this abnormality, the camera keyframes when exported are at
@@ -26,21 +27,21 @@ automated to be fixed with this tool. This documentation is going to go over how
 the tool, to fix both of the problems automatically.
 
 
-**Camera Selection**
+### **Camera Selection**
 
 For this tool to work you have to have a camera selected, by selecting the camera in the
 tools GUI. The dropdown menu gives you
 the option to refresh and select the
 camera that is chosen to be moved.
 
-**Keyframe adjustments**
+### **Keyframe adjustments**
 
 Once the Camera is selected, Keyframe
 adjustments allow for the user to move
 the keyframes to start at any keyframe
 given. The default is at 0.
 
-**Location Offset**
+### **Location Offset**
 
 This gives the ability for the user to move
 the camera to a specific area in space
@@ -52,3 +53,7 @@ location of the motion being different. It is
 automatically selected as being checked,
 as there will be very rare instances of motion not wanting to be baked before moving,
 but the user has the option.
+
+
+____
+
