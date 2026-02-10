@@ -1,2 +1,2 @@
 # UnrealCameraAlignment
-A tool to prep cameras moving from one software to another
+A tool to prep Unreal cameras that are not easily transferred between softwares
