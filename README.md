@@ -54,6 +54,8 @@ automatically selected as being checked,
 as there will be very rare instances of motion not wanting to be baked before moving,
 but the user has the option.
 
+Link to Guide in google doc format: https://docs.google.com/document/d/1VmI6zMo7DMOO7EY5aI8zXs56iqnmFenNhq_5olJ15jU/edit?usp=sharing
+
 
 ____
 
