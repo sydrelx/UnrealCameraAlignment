@@ -553,6 +553,6 @@ class CameraToolGUI(OptionsWindow):
 # Entry point  (script name must match to run from Maya's Script Editor)
 # =============================================================================
 
-def CameraAlignment():
+def CameraAlignments():
     gui = CameraToolGUI()
     gui.create()
